@@ -1,3 +1,7 @@
+Screenshots of both charts:
+![image](https://user-images.githubusercontent.com/56077730/227725447-f45b9201-462b-49de-b9fa-c2cd3292a095.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
